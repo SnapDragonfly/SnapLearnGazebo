@@ -1,0 +1,21 @@
+repositories:
+  ardupilot_gazebo:
+    type: git
+    url: git@github.com:ArduPilot/ardupilot_gazebo.git
+    version: ros2
+  ardupilot_gz:
+    type: git
+    url: git@github.com:ArduPilot/ardupilot_gz.git
+    version: main
+  ardupilot_sitl_models:
+    type: git
+    url: git@github.com:ArduPilot/SITL_Models.git
+    version: main
+  ros_gz:
+    type: git
+    url: git@github.com:gazebosim/ros_gz.git
+    version: humble
+  sdformat_urdf:
+    type: git
+    url: git@github.com:ros/sdformat_urdf.git
+    version: humble
